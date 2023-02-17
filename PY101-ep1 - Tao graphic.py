@@ -1,8 +1,14 @@
 import turtle
+
+#set up Pen
 t = turtle.Pen()
 t.pen(pencolor="#40BFB0", pensize=5)
 
 t.penup()
+
+###################
+# Obj : writting 'Uncle'
+###################
 
 #U
 t.goto(-200,200)
